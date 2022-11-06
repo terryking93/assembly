@@ -50,9 +50,9 @@ Prompt1		db	'Hello, my name is Hal. Whats your name? ', EOS
 Prompt2		db	', Im ready to guess your number between 1 and 100. ', EOS
 UserName 	db	100 dup (?)
 GuessNum	db	0
-two			db	0
+two		db	0
 Answer		dw	0
-Num			dw	0																																										
+Num		dw	0																																										
 
 ;****************************************************************************
 ;* Code Section                                                             *
