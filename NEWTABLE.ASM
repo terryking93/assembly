@@ -53,9 +53,6 @@ GuessNum	db	0
 two			db	0
 Answer		dw	0
 Num			dw	0																																										
-PAAnswer	dw	0
-
-
 
 ;****************************************************************************
 ;* Code Section                                                             *
